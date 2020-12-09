@@ -1,2 +1,3 @@
 # Laravel-Kitchen
- Completed Project
+ - Bug fixed
+ Updated nd Completed Project
